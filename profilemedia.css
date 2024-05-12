@@ -1,0 +1,139 @@
+@media screen and (max-width:600px){
+
+    body{
+       overflow-x: hidden;
+      overflow-x: hidden;
+      font-size: 20px;
+    }
+    .main1{
+        max-width: 300px;
+        min-height: 40vh;
+    }
+    .main1 h1{
+        text-align: center;
+        font-size: 30px;
+    }
+    .page-1{
+        min-height: 40vh;
+    }
+    .main3 h3{
+        font-size: 20px;
+    }
+    .navbar{
+        min-width: 300px;
+    }
+    .main2{
+        min-width: 300px;
+        display: flex;
+        min-height: 40vh;
+       justify-content: center;
+       align-items: center;
+       
+    }
+
+    .main4{
+        margin-top: 30px;
+    }
+    .main1 p{
+        z-index: 20;
+    }
+    .video2{
+        min-width: 300px;
+    }
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    box-sizing: 0;
+    gap: 0;
+    padding-top: 0;
+    background-color:rgba(200, 200, 200, 0.875);
+}
+html,body{
+    background-color:rgba(200, 200, 200, 0.875);
+}
+.navbar{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav1{
+    height: 50px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+}
+.img{
+    height: 55px;
+    width: 55px;
+    background-image: url('21.png');
+    background-size: contain;
+    background-color: black;
+}
+.burger i{
+    font-size: 30px;
+    margin-right: 20px;
+}
+.page-1{
+   
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.main1{
+   
+    width: 50%;
+}
+.main1 h1{
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+.main1 p{
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.main2{
+   
+    width: fit-content;
+    background-color:rgba(200, 200, 200, 0.875);
+}
+.start{
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(64, 255, 26);
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+.video2{
+    height: 400px;
+    width: 450px;
+    mix-blend-mode: darken;
+    background-color:rgba(200, 200, 200, 0.875);
+}
+.page-2{
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.main4{
+    background-color:rgba(200, 200, 200, 0.875);
+}
+.main4 img{
+    background-position: center;
+    mix-blend-mode: darken;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
