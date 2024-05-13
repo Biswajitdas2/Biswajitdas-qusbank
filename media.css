@@ -65,9 +65,9 @@
     max-width: 300px;
    }
    .qustion1-div{
-    min-height: 46vh;
+    min-height: 43vh;
     max-width: 300px;
-    
+    margni-left:10px;
    }
    .ans1-div{
     width: 500px;
@@ -76,18 +76,22 @@
     max-width: 300px;
    }
    .qustion2-div{
-    min-height: 46vh;
+    min-height: 43vh;
     max-width: 300px;
+        margni-left:10px;
    }
    .option3-div{
     max-width: 300px;
+    
    }
    .qustion3-div{
     min-height: 40vh;
+        margni-left:10px;
    }
    .option4-div{
     max-width: 300px;
     min-width: 300px;
+        margni-left:10px;
    
    }
    .qustion4-div{
@@ -96,6 +100,7 @@
    .option5-div{
     max-width: 300px;
     min-width: 300px;
+        margni-left:10px;
     
    }
    .qustion5-div{
@@ -105,6 +110,7 @@
    .option6-div{
     max-width: 300px;
     min-width: 300px;
+        margni-left:10px;
    }
    .qustion6-div{
     min-height: 40vh;
@@ -115,11 +121,13 @@
    }
    .qustion7-div{
     min-height: 40vh;
+        margni-left:10px;
     min-width: 300px;
    }
    .option8-div{
     max-width: 300px;
     min-width: 300px;
+        margni-left:10px;
    }
    .qustion8-div{
     min-height: 40vh;
@@ -127,6 +135,7 @@
    .option9-div{
     min-width: 300px;
     max-width: 300px;
+        margni-left:10px;
    }
    .qustion9-div{
     min-height: 40vh;
@@ -134,12 +143,14 @@
    .option10-div{
     max-width: 300px;
     min-width: 300px;
+        margni-left:10px;
    }
    .qustion10-div{
     min-height: 40vh;
    }
    .option11-div{
     max-width: 300px;
+        margni-left:10px;
     min-width: 300px;
    }
    .qustion11-div{
@@ -147,6 +158,7 @@
    }
    .option12-div{
     max-width: 300px;
+        margni-left:10px;
     min-width: 300px;
    }
    .qustion12-div{
@@ -154,15 +166,18 @@
    }
    .option13-div{
     max-width: 300px;
+        margni-left:10px;
     min-width: 300px;
    }
    .qustion13-div{
     min-height: 40vh;
+        margni-left:10px;
 
    }
    .option14-div{
     max-width: 300px;
     min-width: 300px;
+        margni-left:10px;
    }
    .qustion14-div{
     min-height: 40vh;
@@ -173,5 +188,6 @@
    .qustion15-div{
     min-width: 300px;
     min-height: 40vh;
+        margni-left:10px;
    }
 }
