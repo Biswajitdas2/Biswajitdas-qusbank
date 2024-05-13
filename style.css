@@ -1575,3 +1575,11 @@ li:hover{
 .main1 i{
     display: block;
 }
+.ans16-div,.ans17-div,.ans18-div,.ans19-div,.ans20-div,.ans21-div,.ans22-div,.ans23-div,.ans24-div,.ans25-div,.ans26-div,.ans27-div,.ans28-div,.ans29-div,.ans30-div,.ans31-div,.ans32-div,.ans33-div,.ans34-div,.ans35-div,.ans36-div,.ans37-div,.ans38-div,.ans39-div,ans40-div,.ans41-div,.ans42-div,.ans43-div,.ans44-div,.ans45-div,.ans46-div,.ans47-div,.ans48-div,.ans49-div,.ans50-div,.ans51-div,.ans52-div,.ans53-div,.ans54 -div,.ans55-div,.ans56-div,.ans57-div,.ans58-div,.ans59-div,.ans60-div,.ans61-div,.ans62-div,.ans63-div,.ans64-div,.ans65-div,.ans66-div,.ans67-div,.ans68-div,.ans69-div,.ans70-div,.ans71-div,.ans72-div,.ans73-div,.ans74-div,.ans75-div,.ans76-div,.ans77-div,.ans78-div,.ans79-div,.ans80-div,.ans81-div,.ans82-div,.ans83-div,.ans84-div,.ans85-div,.ans86-div,.ans87-div,.ans88-div,.ans89-div,.ans90-div{
+    display: inline;  
+    font-size:19px;
+    font-weight: 300;
+    margin-left: 10px;
+     color:rgb(18, 16, 1);
+
+}
